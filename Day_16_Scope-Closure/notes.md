@@ -1,0 +1,6 @@
+--------Scope--------
+-variable access limitation.
+-scope like a home
+-not access outside
+-variable search value upper outside of the scope is
+-closure--> pass the all reference of the function main functions variable,
